@@ -2,7 +2,7 @@
 
 This app is using Hibernate to read/write data to database table. 
 
-** Here is the database table design: **
+**Here is the database table design:**
 
 Table: **Employee**
 
